@@ -1,4 +1,10 @@
 *{margin: 0; padding: 0;} 
+.khoitt1 {
+    height: 100%;
+    width: 100%;
+    background: #e9585f;
+    position: relative;
+}
 
 nav.navbar.navbar-light.bg-faded.navbar-fixed-top {
 	background: white;
